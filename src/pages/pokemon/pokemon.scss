@@ -1,0 +1,18 @@
+page-pokemon {
+}
+
+//Quis colocar o pikachu em tudo, por isso ele esta em ion-content
+//Sei que se eu quisesse so numa pagina colocaria ele em page-pokemon
+ion-content{
+	background-image: url('../../assets/imgs/pikachu.jpg');
+	background-size: cover;
+}
+
+ion-card{
+	width:50vw !important;
+}
+
+
+.title{
+	text-align: center;
+}
